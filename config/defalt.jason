@@ -1,0 +1,4 @@
+
+{
+  "mongoURI":"mongodb+srv://abe123:abe123@abedb01.c96zl.mongodb.net/developer_profiles?retryWrites=true&w=majority"
+}
